@@ -118,3 +118,26 @@ A centralized collection of ready-to-use shields (badges) paired with official d
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)](https://www.postman.com/)
 [![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?logo=insomnia&logoColor=white)](https://insomnia.rest/)
 [![Socket.io](https://img.shields.io/badge/Socket.io-010101?logo=socketdotio&logoColor=white)](https://socket.io/)
+
+## 🗄️ Databases & ORMs
+
+<!-- Databases & ORMs -->
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)](https://dev.mysql.com/)
+[![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white)](https://mariadb.org/)
+[![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoftsqlserver&logoColor=white)](https://www.microsoft.com/en-us/sql-server)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)](https://redis.io/)
+[![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?logo=amazondynamodb&logoColor=white)](https://aws.amazon.com/dynamodb/)
+[![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?logo=apachecassandra&logoColor=white)](https://cassandra.apache.org/)
+[![CouchDB](https://img.shields.io/badge/CouchDB-EA2328?logo=apachecouchdb&logoColor=white)](https://couchdb.apache.org/)
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)](https://firebase.google.com/docs)
+[![Firestore](https://img.shields.io/badge/Firestore-FFCA28?logo=firebase&logoColor=black)](https://firebase.google.com/docs/firestore)
+[![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white)](https://supabase.com/)
+[![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)](https://www.sqlite.org/)
+[![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?logo=elastic&logoColor=white)](https://www.elastic.co/elasticsearch/)
+[![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?logo=influxdb&logoColor=white)](https://www.influxdata.com/)
+[![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?logo=neo4j&logoColor=white)](https://neo4j.com/)
+[![PlanetScale](https://img.shields.io/badge/PlanetScale-000000?logo=planetscale&logoColor=white)](https://planetscale.com/)
+[![CockroachDB](https://img.shields.io/badge/CockroachDB-6933FF?logo=cockroachlabs&logoColor=white)](https://www.cockroachlabs.com/)
+[![TimescaleDB](https://img.shields.io/badge/TimescaleDB-FDB515?logo=timescale&logoColor=black)](https://www.timescale.com/)
