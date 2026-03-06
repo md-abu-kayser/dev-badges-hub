@@ -5,9 +5,9 @@ A centralized collection of ready-to-use shields (badges) paired with official d
 <!-- MIT License & Demo & Issues -->
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](./LICENSE)
 [![Demo](https://img.shields.io/badge/demo-GitHub%20Pages-brightgreen)](https://md-abu-kayser.github.io/md-abu-kayser/)
-[![Issues](https://img.shields.io/github/issues/md-abu-kayser/your-project-name)](https://github.com/md-abu-kayser/your-project-name/issues)
+[![Issues](https://img.shields.io/github/issues/md-abu-kayser/dev-badges-hub)](https://github.com/md-abu-kayser/dev-badges-hub/issues)
 
-##  Languages-Runtimes & Web Standards
+## 🌐 Languages-Runtimes & Web Standards
 
 <!-- Languages-Runtimes & Web Standards -->
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
@@ -31,3 +31,28 @@ A centralized collection of ready-to-use shields (badges) paired with official d
 [![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)](https://nodejs.org/)
 [![Deno](https://img.shields.io/badge/Deno-000000?logo=deno&logoColor=white)](https://deno.com/)
 [![Bun](https://img.shields.io/badge/Bun-000000?logo=bun&logoColor=white)](https://bun.sh/)
+
+## ⚛️ Frontend Frameworks & Libraries
+
+<!-- Frontend Frameworks & Libraries -->
+[![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)](https://react.dev/)
+[![React Native](https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=black)](https://reactnative.dev/)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)](https://nextjs.org/)
+[![Remix](https://img.shields.io/badge/Remix-000000?logo=remix&logoColor=white)](https://remix.run/)
+[![Gatsby](https://img.shields.io/badge/Gatsby-663399?logo=gatsby&logoColor=white)](https://www.gatsbyjs.com/)
+[![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=white)](https://vuejs.org/)
+[![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?logo=nuxtdotjs&logoColor=white)](https://nuxt.com/)
+[![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)](https://angular.io/)
+[![Svelte](https://img.shields.io/badge/Svelte-FF3E00?logo=svelte&logoColor=white)](https://svelte.dev/)
+[![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?logo=svelte&logoColor=white)](https://kit.svelte.dev/)
+[![Solid](https://img.shields.io/badge/Solid-2C4F7C?logo=solid&logoColor=white)](https://www.solidjs.com/)
+[![Preact](https://img.shields.io/badge/Preact-673AB8?logo=preact&logoColor=white)](https://preactjs.com/)
+[![Astro](https://img.shields.io/badge/Astro-FF5D01?logo=astro&logoColor=white)](https://astro.build/)
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)](https://flutter.dev/)
+[![Electron](https://img.shields.io/badge/Electron-47848F?logo=electron&logoColor=white)](https://www.electronjs.org/)
+[![Tauri](https://img.shields.io/badge/Tauri-24C8DB?logo=tauri&logoColor=white)](https://tauri.app/)
+[![Ember](https://img.shields.io/badge/Ember-E04E39?logo=emberdotjs&logoColor=white)](https://emberjs.com/)
+[![Ionic](https://img.shields.io/badge/Ionic-3880FF?logo=ionic&logoColor=white)](https://ionicframework.com/)
+[![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white)](https://jquery.com/)
+[![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?logo=alpinedotjs&logoColor=black)](https://alpinejs.dev/)
+[![HTMX](https://img.shields.io/badge/HTMX-3D72D7?logo=htmx&logoColor=white)](https://htmx.org/)
