@@ -4,7 +4,7 @@ A centralized collection of ready-to-use shields (badges) paired with official d
 
 <!-- MIT License & Demo & Issues -->
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](./LICENSE)
-[![Demo](https://img.shields.io/badge/demo-GitHub%20Pages-brightgreen)](https://md-abu-kayser.github.io/md-abu-kayser/)
+[![Demo](https://img.shields.io/badge/profile-GitHub%20Pages-brightgreen)](https://md-abu-kayser.github.io/md-abu-kayser/)
 [![Issues](https://img.shields.io/github/issues/md-abu-kayser/dev-badges-hub)](https://github.com/md-abu-kayser/dev-badges-hub/issues)
 
 ## 🌐 Languages-Runtimes & Web Standards
@@ -56,3 +56,31 @@ A centralized collection of ready-to-use shields (badges) paired with official d
 [![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white)](https://jquery.com/)
 [![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?logo=alpinedotjs&logoColor=black)](https://alpinejs.dev/)
 [![HTMX](https://img.shields.io/badge/HTMX-3D72D7?logo=htmx&logoColor=white)](https://htmx.org/)
+
+## 🎨 UI Libraries & Styling
+
+<!-- UI Libraries & Styling -->
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwindcss&logoColor=white)](https://tailwindcss.com/docs/)
+[![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8?logo=daisyui&logoColor=white)](https://daisyui.com/)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+[![Bulma](https://img.shields.io/badge/Bulma-00D1B2?logo=bulma&logoColor=white)](https://bulma.io/)
+[![Foundation](https://img.shields.io/badge/Foundation-008CBA?logo=foundation&logoColor=white)](https://get.foundation/)
+[![MUI](https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=white)](https://mui.com/)
+[![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?logo=antdesign&logoColor=white)](https://ant.design/)
+[![Chakra UI](https://img.shields.io/badge/Chakra_UI-319795?logo=chakraui&logoColor=white)](https://chakra-ui.com/)
+[![Mantine](https://img.shields.io/badge/Mantine-339AF0?logo=mantine&logoColor=white)](https://mantine.dev/)
+[![Radix UI](https://img.shields.io/badge/Radix_UI-161618?logo=radixui&logoColor=white)](https://www.radix-ui.com/)
+[![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?logo=shadcnui&logoColor=white)](https://ui.shadcn.com/)
+[![Semantic UI](https://img.shields.io/badge/Semantic_UI-00B5AD?logo=semanticuireact&logoColor=white)](https://semantic-ui.com/)
+[![SASS](https://img.shields.io/badge/SASS-CC6699?logo=sass&logoColor=white)](https://sass-lang.com/)
+[![Less](https://img.shields.io/badge/Less-1D365D?logo=less&logoColor=white)](https://lesscss.org/)
+[![PostCSS](https://img.shields.io/badge/PostCSS-DD3A0A?logo=postcss&logoColor=white)](https://postcss.org/)
+[![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093?logo=styledcomponents&logoColor=white)](https://styled-components.com/)
+[![Emotion](https://img.shields.io/badge/Emotion-C43BAD?logo=emotion&logoColor=white)](https://emotion.sh/)
+[![CSS Modules](https://img.shields.io/badge/CSS_Modules-000000?logo=cssmodules&logoColor=white)](https://github.com/css-modules/css-modules)
+[![Storybook](https://img.shields.io/badge/Storybook-FF4785?logo=storybook&logoColor=white)](https://storybook.js.org/)
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](https://www.figma.com/)
+[![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?logo=chartdotjs&logoColor=white)](https://www.chartjs.org/)
+[![D3.js](https://img.shields.io/badge/D3.js-F9A03C?logo=d3dotjs&logoColor=white)](https://d3js.org/)
+[![Three.js](https://img.shields.io/badge/Three.js-000000?logo=threedotjs&logoColor=white)](https://threejs.org/)
+[![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?logo=framer&logoColor=white)](https://www.framer.com/motion/)
