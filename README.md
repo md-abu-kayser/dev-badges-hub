@@ -166,7 +166,7 @@ A centralized collection of ready-to-use shields (badges) paired with official d
 [![Linode](https://img.shields.io/badge/Linode-00A95C?logo=linode&logoColor=white)](https://www.linode.com/)
 [![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white)](https://www.cloudflare.com/)
 
-## Containers & Orchestration
+### Containers & Orchestration
 
 <!-- Containers & Orchestration -->
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](https://www.docker.com/)
@@ -175,3 +175,11 @@ A centralized collection of ready-to-use shields (badges) paired with official d
 [![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white)](https://www.terraform.io/)
 [![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white)](https://www.ansible.com/)
 [![Vagrant](https://img.shields.io/badge/Vagrant-1868F2?logo=vagrant&logoColor=white)](https://www.vagrantup.com/)
+
+### Servers & Process Management
+
+<!-- Servers & Process -->
+[![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white)](https://nginx.org/)
+[![Apache](https://img.shields.io/badge/Apache-D22128?logo=apache&logoColor=white)](https://httpd.apache.org/)
+[![PM2](https://img.shields.io/badge/PM2-2F2F2F?logo=pm2&logoColor=white)](https://pm2.keymetrics.io/)
+[![nodemon](https://img.shields.io/badge/nodemon-76D04B?logo=node.js&logoColor=white)](https://nodemon.io/)
