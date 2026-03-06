@@ -223,3 +223,22 @@ A centralized collection of ready-to-use shields (badges) paired with official d
 [![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?logo=googleanalytics&logoColor=white)](https://analytics.google.com/)
 [![Kibana](https://img.shields.io/badge/Kibana-005571?logo=kibana&logoColor=white)](https://www.elastic.co/kibana/)
 [![Splunk](https://img.shields.io/badge/Splunk-000000?logo=splunk&logoColor=white)](https://www.splunk.com/)
+
+## 📦 Build Tools & Package Managers
+
+<!-- Build Tools & Package Managers -->
+[![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=black)](https://webpack.js.org/)
+[![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)](https://vitejs.dev/)
+[![Rollup](https://img.shields.io/badge/Rollup-EC4A3F?logo=rollupdotjs&logoColor=white)](https://rollupjs.org/)
+[![esbuild](https://img.shields.io/badge/esbuild-FFCF00?logo=esbuild&logoColor=black)](https://esbuild.github.io/)
+[![Parcel](https://img.shields.io/badge/Parcel-21374B?logo=parcel&logoColor=white)](https://parceljs.org/)
+[![Turbopack](https://img.shields.io/badge/Turbopack-000000?logo=turbopack&logoColor=white)](https://turbo.build/pack)
+[![SWC](https://img.shields.io/badge/SWC-FFFFFF?logo=swc&logoColor=black)](https://swc.rs/)
+[![Babel](https://img.shields.io/badge/Babel-F9DC3E?logo=babel&logoColor=black)](https://babeljs.io/)
+[![pnpm](https://img.shields.io/badge/pnpm-F69220?logo=pnpm&logoColor=white)](https://pnpm.io/)
+[![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white)](https://www.npmjs.com/)
+[![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?logo=yarn&logoColor=white)](https://yarnpkg.com/)
+[![Gradle](https://img.shields.io/badge/Gradle-02303A?logo=gradle&logoColor=white)](https://gradle.org/)
+[![Maven](https://img.shields.io/badge/Maven-C71A36?logo=apachemaven&logoColor=white)](https://maven.apache.org/)
+[![Composer](https://img.shields.io/badge/Composer-885630?logo=composer&logoColor=white)](https://getcomposer.org/)
+[![pip](https://img.shields.io/badge/pip-3775A9?logo=pypi&logoColor=white)](https://pip.pypa.io/)
