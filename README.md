@@ -195,3 +195,19 @@ A centralized collection of ready-to-use shields (badges) paired with official d
 [![helmet](https://img.shields.io/badge/helmet-0F172A?logo=shield&logoColor=white)](https://helmetjs.github.io/)
 [![cors](https://img.shields.io/badge/cors-2.8.5-lightgrey)](https://www.npmjs.com/package/cors)
 [![dotenv](https://img.shields.io/badge/dotenv-464646?logo=dotenv&logoColor=white)](https://github.com/motdotla/dotenv)
+
+## ✅ Testing & Quality Assurance
+
+<!-- Testing & QA -->
+[![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white)](https://jestjs.io/)
+[![Vitest](https://img.shields.io/badge/Vitest-6E00FF?logo=vitest&logoColor=white)](https://vitest.dev/)
+[![Testing Library](https://img.shields.io/badge/Testing_Library-E33332?logo=testinglibrary&logoColor=white)](https://testing-library.com/)
+[![Mocha](https://img.shields.io/badge/Mocha-8D6748?logo=mocha&logoColor=white)](https://mochajs.org/)
+[![Chai](https://img.shields.io/badge/Chai-A30701?logo=chai&logoColor=white)](https://www.chaijs.com/)
+[![Cypress](https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=white)](https://www.cypress.io/)
+[![Playwright](https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white)](https://playwright.dev/)
+[![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white)](https://www.selenium.dev/)
+[![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?logo=puppeteer&logoColor=white)](https://pptr.dev/)
+[![JUnit](https://img.shields.io/badge/JUnit-25A162?logo=junit5&logoColor=white)](https://junit.org/)
+[![pytest](https://img.shields.io/badge/pytest-0A9EDC?logo=pytest&logoColor=white)](https://docs.pytest.org/)
+[![SuperTest](https://img.shields.io/badge/SuperTest-000000?logo=jest&logoColor=white)](https://github.com/visionmedia/supertest)
