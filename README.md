@@ -183,3 +183,15 @@ A centralized collection of ready-to-use shields (badges) paired with official d
 [![Apache](https://img.shields.io/badge/Apache-D22128?logo=apache&logoColor=white)](https://httpd.apache.org/)
 [![PM2](https://img.shields.io/badge/PM2-2F2F2F?logo=pm2&logoColor=white)](https://pm2.keymetrics.io/)
 [![nodemon](https://img.shields.io/badge/nodemon-76D04B?logo=node.js&logoColor=white)](https://nodemon.io/)
+
+## 🔐 Authentication & Security
+
+<!-- Authentication & Security -->
+[![Firebase Auth](https://img.shields.io/badge/Firebase_Auth-FFCA28?logo=firebase&logoColor=black)](https://firebase.google.com/docs/auth)
+[![Passport.js](https://img.shields.io/badge/Passport.js-4B2B8D?logo=passport.js&logoColor=white)](http://www.passportjs.org/)
+[![Auth0](https://img.shields.io/badge/Auth0-EB5424?logo=auth0&logoColor=white)](https://auth0.com/)
+[![bcrypt](https://img.shields.io/badge/bcrypt-3.0.0-lightgrey)](https://www.npmjs.com/package/bcrypt)
+[![jsonwebtoken](https://img.shields.io/badge/jsonwebtoken-8.5.1-lightgrey)](https://www.npmjs.com/package/jsonwebtoken)
+[![helmet](https://img.shields.io/badge/helmet-0F172A?logo=shield&logoColor=white)](https://helmetjs.github.io/)
+[![cors](https://img.shields.io/badge/cors-2.8.5-lightgrey)](https://www.npmjs.com/package/cors)
+[![dotenv](https://img.shields.io/badge/dotenv-464646?logo=dotenv&logoColor=white)](https://github.com/motdotla/dotenv)
