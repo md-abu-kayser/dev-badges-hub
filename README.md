@@ -308,3 +308,15 @@ A centralized collection of ready-to-use shields (badges) paired with official d
 [![winston](https://img.shields.io/badge/winston-4A5568?logo=node.js&logoColor=white)](https://github.com/winstonjs/winston)
 [![bcrypt](https://img.shields.io/badge/bcrypt-3.0.0-lightgrey)](https://www.npmjs.com/package/bcrypt)
 [![jsonwebtoken](https://img.shields.io/badge/jsonwebtoken-8.5.1-lightgrey)](https://www.npmjs.com/package/jsonwebtoken)
+
+## 🧪 Additional (Web3 / Blockchain)
+
+<!-- Web3 / Blockchain -->
+[![Web3.js](https://img.shields.io/badge/Web3.js-F16822?logo=web3dotjs&logoColor=white)](https://web3js.readthedocs.io/)
+[![Ethers.js](https://img.shields.io/badge/Ethers.js-3C3C3D?logo=ethereum&logoColor=white)](https://docs.ethers.org/)
+[![Solidity](https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white)](https://soliditylang.org/)
+[![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?logo=hardhat&logoColor=black)](https://hardhat.org/)
+[![Truffle](https://img.shields.io/badge/Truffle-5B4646?logo=truffle&logoColor=white)](https://trufflesuite.com/)
+[![IPFS](https://img.shields.io/badge/IPFS-65C2CB?logo=ipfs&logoColor=white)](https://ipfs.tech/)
+[![MetaMask](https://img.shields.io/badge/MetaMask-F6851B?logo=metamask&logoColor=white)](https://metamask.io/)
+[![Polygon](https://img.shields.io/badge/Polygon-7B3FE4?logo=polygon&logoColor=white)](https://polygon.technology/)
