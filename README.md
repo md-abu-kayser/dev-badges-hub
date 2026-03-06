@@ -267,3 +267,21 @@ A centralized collection of ready-to-use shields (badges) paired with official d
 [![Sanity](https://img.shields.io/badge/Sanity-F03E2F?logo=sanity&logoColor=white)](https://www.sanity.io/)
 [![Ghost](https://img.shields.io/badge/Ghost-15171A?logo=ghost&logoColor=white)](https://ghost.org/)
 [![Prismic](https://img.shields.io/badge/Prismic-5163BA?logo=prismic&logoColor=white)](https://prismic.io/)
+
+## 🛠️ Development Tools & IDEs
+
+<!-- Dev Tools & IDEs -->
+[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
+[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?logo=intellijidea&logoColor=white)](https://www.jetbrains.com/idea/)
+[![WebStorm](https://img.shields.io/badge/WebStorm-000000?logo=webstorm&logoColor=white)](https://www.jetbrains.com/webstorm/)
+[![PyCharm](https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=white)](https://www.jetbrains.com/pycharm/)
+[![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?logo=androidstudio&logoColor=white)](https://developer.android.com/studio)
+[![Xcode](https://img.shields.io/badge/Xcode-147EFB?logo=xcode&logoColor=white)](https://developer.apple.com/xcode/)
+[![Vim](https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=white)](https://www.vim.org/)
+[![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=white)](https://neovim.io/)
+[![Sublime Text](https://img.shields.io/badge/Sublime_Text-FF9800?logo=sublimetext&logoColor=white)](https://www.sublimetext.com/)
+[![Expo](https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=white)](https://expo.dev/)
+[![ESLint](https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=white)](https://eslint.org/docs/latest/)
+[![Prettier](https://img.shields.io/badge/Prettier-F7B93E?logo=prettier&logoColor=black)](https://prettier.io/docs/)
+[![Husky](https://img.shields.io/badge/Husky-000000?logo=husky&logoColor=white)](https://typicode.github.io/husky/)
+[![EditorConfig](https://img.shields.io/badge/EditorConfig-FEFEFE?logo=editorconfig&logoColor=black)](https://editorconfig.org/)
