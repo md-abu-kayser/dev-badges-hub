@@ -292,3 +292,9 @@ A centralized collection of ready-to-use shields (badges) paired with official d
 [![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=white)](https://www.rabbitmq.com/)
 [![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?logo=apachekafka&logoColor=white)](https://kafka.apache.org/)
 [![Redis Pub/Sub](https://img.shields.io/badge/Redis_Pub%2FSub-DC382D?logo=redis&logoColor=white)](https://redis.io/)
+
+## 📧 Email & Communication
+
+<!-- Email & Communication -->
+[![SendGrid](https://img.shields.io/badge/SendGrid-00C8FF?logo=sendgrid&logoColor=white)](https://sendgrid.com/)
+[![Mailgun](https://img.shields.io/badge/Mailgun-FF6D3A?logo=mailgun&logoColor=white)](https://www.mailgun.com/)
