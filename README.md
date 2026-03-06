@@ -320,3 +320,13 @@ A centralized collection of ready-to-use shields (badges) paired with official d
 [![IPFS](https://img.shields.io/badge/IPFS-65C2CB?logo=ipfs&logoColor=white)](https://ipfs.tech/)
 [![MetaMask](https://img.shields.io/badge/MetaMask-F6851B?logo=metamask&logoColor=white)](https://metamask.io/)
 [![Polygon](https://img.shields.io/badge/Polygon-7B3FE4?logo=polygon&logoColor=white)](https://polygon.technology/)
+
+## 🧰 Other Utilities
+
+<!-- Other Utilities -->
+[![Google Fonts](https://img.shields.io/badge/Google_Fonts-4285F4?logo=google&logoColor=white)](https://fonts.google.com/)
+[![Font Awesome](https://img.shields.io/badge/Font_Awesome-528DD7?logo=fontawesome&logoColor=white)](https://fontawesome.com/)
+[![Heroicons](https://img.shields.io/badge/Heroicons-0EA5E9?logo=heroicons&logoColor=white)](https://heroicons.com/)
+[![Unsplash](https://img.shields.io/badge/Unsplash-000000?logo=unsplash&logoColor=white)](https://unsplash.com/)
+[![Unsplash API](https://img.shields.io/badge/API-Unsplash%20Developers-000000?logo=unsplash&logoColor=white)](https://unsplash.com/developers)
+[![Google GenAI](https://img.shields.io/badge/google--genai-%5E1.19.0-orange)](https://developers.google.com/)
