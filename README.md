@@ -1,19 +1,17 @@
 # Dev Badges Hub - All Tech Badges & Docs
 
-**A centralized collection of ready-to-use shields (badges) paired with official documentation links across frontend, backend, databases, cloud, DevOps and testing.**
+A centralized collection of ready-to-use shields (badges) paired with official documentation links across frontend, backend, databases, cloud, DevOps and testing.
 
-<!-- MIT License -->
+<!-- MIT License & Demo & Issues -->
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](./LICENSE)
+[![Demo](https://img.shields.io/badge/git-profile%20md-abu-kayser-brightgreen)](https://md-abu-kayser.github.io/md-abu-kayser/)
+[![Issues](https://img.shields.io/github/issues/md-abu-kayser/md-abu-kayser)](https://github.com/md-abu-kayser/md-abu-kayser/issues)
 
-https://img.shields.io/badge/License-MIT-blue.svg
+##  Languages-Runtimes & Web Standards
 
-<!-- HTML5 & CSS3 -->
-
+<!-- Languages-Runtimes & Web Standards -->
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-
-##  Languages & Runtimes
-
-<!-- Languages & Runtimes -->
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/docs/)
 [![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)](https://go.dev/doc/)
