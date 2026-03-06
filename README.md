@@ -298,3 +298,13 @@ A centralized collection of ready-to-use shields (badges) paired with official d
 <!-- Email & Communication -->
 [![SendGrid](https://img.shields.io/badge/SendGrid-00C8FF?logo=sendgrid&logoColor=white)](https://sendgrid.com/)
 [![Mailgun](https://img.shields.io/badge/Mailgun-FF6D3A?logo=mailgun&logoColor=white)](https://www.mailgun.com/)
+
+## 🧪 Validation & Utilities
+
+<!-- Validation & Utilities -->
+[![Joi](https://img.shields.io/badge/Joi-7C3AED?logo=javascript&logoColor=white)](https://joi.dev/)
+[![Zod](https://img.shields.io/badge/Zod-6C63FF?logo=typescript&logoColor=white)](https://zod.dev/)
+[![morgan](https://img.shields.io/badge/morgan-FF6B6B?logoColor=white)](https://www.npmjs.com/package/morgan)
+[![winston](https://img.shields.io/badge/winston-4A5568?logo=node.js&logoColor=white)](https://github.com/winstonjs/winston)
+[![bcrypt](https://img.shields.io/badge/bcrypt-3.0.0-lightgrey)](https://www.npmjs.com/package/bcrypt)
+[![jsonwebtoken](https://img.shields.io/badge/jsonwebtoken-8.5.1-lightgrey)](https://www.npmjs.com/package/jsonwebtoken)
