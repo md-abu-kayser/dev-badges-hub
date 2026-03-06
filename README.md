@@ -330,3 +330,306 @@ A centralized collection of ready-to-use shields (badges) paired with official d
 [![Unsplash](https://img.shields.io/badge/Unsplash-000000?logo=unsplash&logoColor=white)](https://unsplash.com/)
 [![Unsplash API](https://img.shields.io/badge/API-Unsplash%20Developers-000000?logo=unsplash&logoColor=white)](https://unsplash.com/developers)
 [![Google GenAI](https://img.shields.io/badge/google--genai-%5E1.19.0-orange)](https://developers.google.com/)
+
+---
+
+## 📚 Plain Docs & Links
+
+### Languages & Runtimes
+
+- HTML (MDN): https://developer.mozilla.org/en-US/docs/Web/HTML
+- CSS (MDN): https://developer.mozilla.org/en-US/docs/Web/CSS
+- JavaScript (MDN): https://developer.mozilla.org/en-US/docs/Web/JavaScript
+- TypeScript: https://www.typescriptlang.org/docs/
+- Go: https://go.dev/doc/
+- Rust: https://www.rust-lang.org/learn
+- Python: https://docs.python.org/3/
+- Java: https://docs.oracle.com/en/java/
+- C#: https://docs.microsoft.com/en-us/dotnet/csharp/
+- PHP: https://www.php.net/docs.php
+- Ruby: https://www.ruby-lang.org/en/documentation/
+- Kotlin: https://kotlinlang.org/docs/home.html
+- Swift: https://developer.apple.com/swift/
+- Scala: https://docs.scala-lang.org/
+- Dart: https://dart.dev/guides
+- R: https://www.r-project.org/other-docs.html
+- Clojure: https://clojure.org/guides/getting_started
+- Elixir: https://elixir-lang.org/docs.html
+- Node.js: https://nodejs.org/
+- Deno: https://deno.com/
+- Bun: https://bun.sh/
+
+### Frontend Frameworks
+
+- React: https://react.dev/
+- React Native: https://reactnative.dev/
+- Next.js: https://nextjs.org/
+- Remix: https://remix.run/
+- Gatsby: https://www.gatsbyjs.com/
+- Vue.js: https://vuejs.org/
+- Nuxt.js: https://nuxt.com/
+- Angular: https://angular.io/
+- Svelte: https://svelte.dev/
+- SvelteKit: https://kit.svelte.dev/
+- Solid: https://www.solidjs.com/
+- Preact: https://preactjs.com/
+- Astro: https://astro.build/
+- Flutter: https://flutter.dev/
+- Electron: https://www.electronjs.org/
+- Tauri: https://tauri.app/
+- Ember: https://emberjs.com/
+- Ionic: https://ionicframework.com/
+- jQuery: https://jquery.com/
+- Alpine.js: https://alpinejs.dev/
+- HTMX: https://htmx.org/
+
+### UI & Styling
+
+- Tailwind CSS: https://tailwindcss.com/docs/
+- DaisyUI: https://daisyui.com/
+- Bootstrap: https://getbootstrap.com/
+- Bulma: https://bulma.io/
+- Foundation: https://get.foundation/
+- MUI: https://mui.com/
+- Ant Design: https://ant.design/
+- Chakra UI: https://chakra-ui.com/
+- Mantine: https://mantine.dev/
+- Radix UI: https://www.radix-ui.com/
+- shadcn/ui: https://ui.shadcn.com/
+- Semantic UI: https://semantic-ui.com/
+- SASS: https://sass-lang.com/
+- Less: https://lesscss.org/
+- PostCSS: https://postcss.org/
+- Styled Components: https://styled-components.com/
+- Emotion: https://emotion.sh/
+- CSS Modules: https://github.com/css-modules/css-modules
+- Storybook: https://storybook.js.org/
+- Figma: https://www.figma.com/
+- Chart.js: https://www.chartjs.org/
+- D3.js: https://d3js.org/
+- Three.js: https://threejs.org/
+- Framer Motion: https://www.framer.com/motion/
+
+### Backend & APIs
+
+- Express.js: https://expressjs.com/
+- NestJS: https://nestjs.com/
+- Fastify: https://www.fastify.io/
+- Koa: https://koajs.com/
+- Hapi: https://hapi.dev/
+- AdonisJS: https://adonisjs.com/
+- Django: https://www.djangoproject.com/
+- Flask: https://flask.palletsprojects.com/
+- FastAPI: https://fastapi.tiangolo.com/
+- Spring: https://spring.io/
+- Spring Boot: https://spring.io/projects/spring-boot
+- Laravel: https://laravel.com/
+- Symfony: https://symfony.com/
+- Ruby on Rails: https://rubyonrails.org/
+- .NET: https://dotnet.microsoft.com/
+- ASP.NET Core: https://docs.microsoft.com/en-us/aspnet/core/
+- Phoenix: https://www.phoenixframework.org/
+
+### API & GraphQL
+
+- GraphQL: https://graphql.org/
+- Apollo GraphQL: https://www.apollographql.com/
+- tRPC: https://trpc.io/
+- REST API: https://restfulapi.net/
+- gRPC: https://grpc.io/
+- Swagger: https://swagger.io/
+- Postman: https://www.postman.com/
+- Insomnia: https://insomnia.rest/
+- Socket.io: https://socket.io/
+
+### Databases
+
+- PostgreSQL: https://www.postgresql.org/
+- MySQL: https://dev.mysql.com/
+- MariaDB: https://mariadb.org/
+- SQL Server: https://www.microsoft.com/en-us/sql-server
+- MongoDB: https://www.mongodb.com/
+- Redis: https://redis.io/
+- DynamoDB: https://aws.amazon.com/dynamodb/
+- Cassandra: https://cassandra.apache.org/
+- CouchDB: https://couchdb.apache.org/
+- Firebase: https://firebase.google.com/docs
+- Firestore: https://firebase.google.com/docs/firestore
+- Supabase: https://supabase.com/
+- SQLite: https://www.sqlite.org/
+- Elasticsearch: https://www.elastic.co/elasticsearch/
+- InfluxDB: https://www.influxdata.com/
+- Neo4j: https://neo4j.com/
+- PlanetScale: https://planetscale.com/
+- CockroachDB: https://www.cockroachlabs.com/
+- TimescaleDB: https://www.timescale.com/
+
+### ORMs & Query Builders
+
+- Prisma: https://www.prisma.io/
+- TypeORM: https://typeorm.io/
+- Sequelize: https://sequelize.org/
+- Mongoose: https://mongoosejs.com/
+- Drizzle: https://orm.drizzle.team/
+- Cloud & Infrastructure
+- AWS: https://aws.amazon.com/
+- Azure: https://azure.microsoft.com/
+- Google Cloud: https://cloud.google.com/
+- Vercel: https://vercel.com/
+- Netlify: https://www.netlify.com/
+- Heroku: https://www.heroku.com/
+- Render: https://render.com/
+- Railway: https://railway.app/
+- DigitalOcean: https://www.digitalocean.com/
+- Linode: https://www.linode.com/
+- Cloudflare: https://www.cloudflare.com/
+
+### Containers & Orchestration
+
+- Docker: https://www.docker.com/
+- Docker Compose: https://docs.docker.com/compose/
+- Kubernetes: https://kubernetes.io/
+- Terraform: https://www.terraform.io/
+- Ansible: https://www.ansible.com/
+- Vagrant: https://www.vagrantup.com/
+- Servers & Process Management
+- Nginx: https://nginx.org/
+- Apache: https://httpd.apache.org/
+- PM2: https://pm2.keymetrics.io/
+- nodemon: https://nodemon.io/
+
+### Authentication & Security
+
+- Firebase Auth: https://firebase.google.com/docs/auth
+- Passport.js: http://www.passportjs.org/
+- Auth0: https://auth0.com/
+- bcrypt: https://www.npmjs.com/package/bcrypt
+- jsonwebtoken: https://www.npmjs.com/package/jsonwebtoken
+- helmet: https://helmetjs.github.io/
+- cors: https://www.npmjs.com/package/cors
+- dotenv: https://github.com/motdotla/dotenv
+
+### Testing
+
+- Jest: https://jestjs.io/
+- Vitest: https://vitest.dev/
+- Testing Library: https://testing-library.com/
+- Mocha: https://mochajs.org/
+- Chai: https://www.chaijs.com/
+- Jasmine: https://jasmine.github.io/
+- Cypress: https://www.cypress.io/
+- Playwright: https://playwright.dev/
+- Selenium: https://www.selenium.dev/
+- Puppeteer: https://pptr.dev/
+- JUnit: https://junit.org/
+- pytest: https://docs.pytest.org/
+- SuperTest: https://github.com/visionmedia/supertest
+
+### Monitoring & Observability
+
+- Prometheus: https://prometheus.io/
+- Grafana: https://grafana.com/
+- Sentry: https://sentry.io/
+- Datadog: https://www.datadoghq.com/
+- New Relic: https://newrelic.com/
+- Google Analytics: https://analytics.google.com/
+- Kibana: https://www.elastic.co/kibana/
+- Splunk: https://www.splunk.com/
+
+### Build Tools & Package Managers
+
+- Webpack: https://webpack.js.org/
+- Vite: https://vitejs.dev/
+- Rollup: https://rollupjs.org/
+- esbuild: https://esbuild.github.io/
+- Parcel: https://parceljs.org/
+- Turbopack: https://turbo.build/pack
+- SWC: https://swc.rs/
+- Babel: https://babeljs.io/
+- pnpm: https://pnpm.io/
+- npm: https://www.npmjs.com/
+- Yarn: https://yarnpkg.com/
+- Gradle: https://gradle.org/
+- Maven: https://maven.apache.org/
+- Composer: https://getcomposer.org/
+- pip: https://pip.pypa.io/
+
+### Version Control & CI/CD
+
+- Git: https://git-scm.com/
+- GitHub: https://github.com/
+- GitLab: https://gitlab.com/
+- Bitbucket: https://bitbucket.org/
+- GitHub Actions: https://docs.github.com/actions
+- GitLab CI: https://docs.gitlab.com/ee/ci/
+- CircleCI: https://circleci.com/
+- Jenkins: https://www.jenkins.io/
+- Travis CI: https://travis-ci.org/
+- Azure DevOps: https://azure.microsoft.com/en-us/services/devops/
+- TeamCity: https://www.jetbrains.com/teamcity/
+
+### CMS & Headless
+
+- WordPress: https://wordpress.org/
+- Strapi: https://strapi.io/
+- Contentful: https://www.contentful.com/
+- Sanity: https://www.sanity.io/
+- Ghost: https://ghost.org/
+- Prismic: https://prismic.io/
+
+### Development Tools & IDEs
+
+- VS Code: https://code.visualstudio.com/
+- IntelliJ IDEA: https://www.jetbrains.com/idea/
+- WebStorm: https://www.jetbrains.com/webstorm/
+- PyCharm: https://www.jetbrains.com/pycharm/
+- Android Studio: https://developer.android.com/studio
+- Xcode: https://developer.apple.com/xcode/
+- Vim: https://www.vim.org/
+- Neovim: https://neovim.io/
+- Sublime Text: https://www.sublimetext.com/
+- Expo: https://expo.dev/
+- ESLint: https://eslint.org/
+- Prettier: https://prettier.io/
+- Husky: https://typicode.github.io/husky/
+- EditorConfig: https://editorconfig.org/
+
+### Messaging & Streaming
+
+- RabbitMQ: https://www.rabbitmq.com/
+- Apache Kafka: https://kafka.apache.org/
+- Redis Pub/Sub: https://redis.io/topics/pubsub
+
+### Email
+
+- SendGrid: https://sendgrid.com/
+- Mailgun: https://www.mailgun.com/
+
+### Validation & Utilities
+
+- Joi: https://joi.dev/
+- Zod: https://zod.dev/
+- morgan: https://www.npmjs.com/package/morgan
+- winston: https://github.com/winstonjs/winston
+
+### Web3 & Blockchain
+
+- Web3.js: https://web3js.readthedocs.io/
+- Ethers.js: https://docs.ethers.org/
+- Solidity: https://soliditylang.org/
+- Hardhat: https://hardhat.org/
+- Truffle: https://trufflesuite.com/
+- IPFS: https://ipfs.tech/
+- MetaMask: https://metamask.io/
+- Polygon: https://polygon.technology/
+
+### Other Utilities
+
+- Google Fonts: https://fonts.google.com/
+- Font Awesome: https://fontawesome.com/
+- Heroicons: https://heroicons.com/
+- Unsplash: https://unsplash.com/
+- Unsplash API: https://unsplash.com/developers
+- Google GenAI: https://developers.google.com/
+
+---
