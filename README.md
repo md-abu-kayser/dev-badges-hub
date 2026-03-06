@@ -257,3 +257,13 @@ A centralized collection of ready-to-use shields (badges) paired with official d
 [![Travis CI](https://img.shields.io/badge/Travis_CI-3EAAAF?logo=travisci&logoColor=white)](https://travis-ci.org/)
 [![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?logo=azuredevops&logoColor=white)](https://azure.microsoft.com/en-us/services/devops/)
 [![TeamCity](https://img.shields.io/badge/TeamCity-000000?logo=teamcity&logoColor=white)](https://www.jetbrains.com/teamcity/)
+
+## 🧩 CMS & Headless
+
+<!-- CMS & Headless -->
+[![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white)](https://wordpress.org/)
+[![Strapi](https://img.shields.io/badge/Strapi-2E7EEA?logo=strapi&logoColor=white)](https://strapi.io/)
+[![Contentful](https://img.shields.io/badge/Contentful-2478CC?logo=contentful&logoColor=white)](https://www.contentful.com/)
+[![Sanity](https://img.shields.io/badge/Sanity-F03E2F?logo=sanity&logoColor=white)](https://www.sanity.io/)
+[![Ghost](https://img.shields.io/badge/Ghost-15171A?logo=ghost&logoColor=white)](https://ghost.org/)
+[![Prismic](https://img.shields.io/badge/Prismic-5163BA?logo=prismic&logoColor=white)](https://prismic.io/)
