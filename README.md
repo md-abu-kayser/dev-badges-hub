@@ -211,3 +211,15 @@ A centralized collection of ready-to-use shields (badges) paired with official d
 [![JUnit](https://img.shields.io/badge/JUnit-25A162?logo=junit5&logoColor=white)](https://junit.org/)
 [![pytest](https://img.shields.io/badge/pytest-0A9EDC?logo=pytest&logoColor=white)](https://docs.pytest.org/)
 [![SuperTest](https://img.shields.io/badge/SuperTest-000000?logo=jest&logoColor=white)](https://github.com/visionmedia/supertest)
+
+## 📊 Monitoring & Observability
+
+<!-- Monitoring & Observability -->
+[![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white)](https://prometheus.io/)
+[![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)](https://grafana.com/)
+[![Sentry](https://img.shields.io/badge/Sentry-362D59?logo=sentry&logoColor=white)](https://sentry.io/)
+[![Datadog](https://img.shields.io/badge/Datadog-632CA6?logo=datadog&logoColor=white)](https://www.datadoghq.com/)
+[![New Relic](https://img.shields.io/badge/New_Relic-1CE783?logo=newrelic&logoColor=white)](https://newrelic.com/)
+[![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?logo=googleanalytics&logoColor=white)](https://analytics.google.com/)
+[![Kibana](https://img.shields.io/badge/Kibana-005571?logo=kibana&logoColor=white)](https://www.elastic.co/kibana/)
+[![Splunk](https://img.shields.io/badge/Splunk-000000?logo=splunk&logoColor=white)](https://www.splunk.com/)
