@@ -4,8 +4,8 @@ A centralized collection of ready-to-use shields (badges) paired with official d
 
 <!-- MIT License & Demo & Issues -->
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](./LICENSE)
-[![Demo](https://img.shields.io/badge/demo-GitHub%20Pages-brightgreen)](https://md-abu-kayser.github.io/github.com/md-abu-kayser/)
-[![Issues](https://img.shields.io/github/issues/md-abu-kayser/md-abu-kayser)](https://github.com/md-abu-kayser/md-abu-kayser/issues)
+[![Demo](https://img.shields.io/badge/demo-GitHub%20Pages-brightgreen)](https://md-abu-kayser.github.io/md-abu-kayser/)
+[![Issues](https://img.shields.io/github/issues/md-abu-kayser/your-project-name)](https://github.com/md-abu-kayser/your-project-name/issues)
 
 ##  Languages-Runtimes & Web Standards
 
