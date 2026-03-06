@@ -32,6 +32,8 @@ A centralized collection of ready-to-use shields (badges) paired with official d
 [![Deno](https://img.shields.io/badge/Deno-000000?logo=deno&logoColor=white)](https://deno.com/)
 [![Bun](https://img.shields.io/badge/Bun-000000?logo=bun&logoColor=white)](https://bun.sh/)
 
+---
+
 ## ⚛️ Frontend Frameworks & Libraries
 
 <!-- Frontend Frameworks & Libraries -->
@@ -56,6 +58,8 @@ A centralized collection of ready-to-use shields (badges) paired with official d
 [![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white)](https://jquery.com/)
 [![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?logo=alpinedotjs&logoColor=black)](https://alpinejs.dev/)
 [![HTMX](https://img.shields.io/badge/HTMX-3D72D7?logo=htmx&logoColor=white)](https://htmx.org/)
+
+---
 
 ## 🎨 UI Libraries & Styling
 
@@ -107,3 +111,5 @@ A centralized collection of ready-to-use shields (badges) paired with official d
 [![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?logo=rubyonrails&logoColor=white)](https://rubyonrails.org/)
 [![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
 [![Phoenix](https://img.shields.io/badge/Phoenix-FF6600?logo=phoenixframework&logoColor=white)](https://www.phoenixframework.org/)
+
+---
