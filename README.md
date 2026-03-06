@@ -32,8 +32,6 @@ A centralized collection of ready-to-use shields (badges) paired with official d
 [![Deno](https://img.shields.io/badge/Deno-000000?logo=deno&logoColor=white)](https://deno.com/)
 [![Bun](https://img.shields.io/badge/Bun-000000?logo=bun&logoColor=white)](https://bun.sh/)
 
----
-
 ## ⚛️ Frontend Frameworks & Libraries
 
 <!-- Frontend Frameworks & Libraries -->
@@ -58,8 +56,6 @@ A centralized collection of ready-to-use shields (badges) paired with official d
 [![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white)](https://jquery.com/)
 [![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?logo=alpinedotjs&logoColor=black)](https://alpinejs.dev/)
 [![HTMX](https://img.shields.io/badge/HTMX-3D72D7?logo=htmx&logoColor=white)](https://htmx.org/)
-
----
 
 ## 🎨 UI Libraries & Styling
 
@@ -89,8 +85,6 @@ A centralized collection of ready-to-use shields (badges) paired with official d
 [![Three.js](https://img.shields.io/badge/Three.js-000000?logo=threedotjs&logoColor=white)](https://threejs.org/)
 [![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?logo=framer&logoColor=white)](https://www.framer.com/motion/)
 
----
-
 ## 🖥️ Backend & API Frameworks
 
 <!-- Backend & API Frameworks -->
@@ -112,4 +106,15 @@ A centralized collection of ready-to-use shields (badges) paired with official d
 [![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
 [![Phoenix](https://img.shields.io/badge/Phoenix-FF6600?logo=phoenixframework&logoColor=white)](https://www.phoenixframework.org/)
 
----
+## 🔌 APIs & GraphQL
+
+<!-- APIs & GraphQL -->
+[![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white)](https://graphql.org/)
+[![Apollo](https://img.shields.io/badge/Apollo-311C87?logo=apollographql&logoColor=white)](https://www.apollographql.com/)
+[![tRPC](https://img.shields.io/badge/tRPC-2596BE?logo=trpc&logoColor=white)](https://trpc.io/)
+[![REST API](https://img.shields.io/badge/REST_API-005571?logo=rest&logoColor=white)](https://restfulapi.net/)
+[![gRPC](https://img.shields.io/badge/gRPC-4285F4?logo=grpc&logoColor=white)](https://grpc.io/)
+[![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black)](https://swagger.io/)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)](https://www.postman.com/)
+[![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?logo=insomnia&logoColor=white)](https://insomnia.rest/)
+[![Socket.io](https://img.shields.io/badge/Socket.io-010101?logo=socketdotio&logoColor=white)](https://socket.io/)
