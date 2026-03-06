@@ -285,3 +285,10 @@ A centralized collection of ready-to-use shields (badges) paired with official d
 [![Prettier](https://img.shields.io/badge/Prettier-F7B93E?logo=prettier&logoColor=black)](https://prettier.io/docs/)
 [![Husky](https://img.shields.io/badge/Husky-000000?logo=husky&logoColor=white)](https://typicode.github.io/husky/)
 [![EditorConfig](https://img.shields.io/badge/EditorConfig-FEFEFE?logo=editorconfig&logoColor=black)](https://editorconfig.org/)
+
+## 📡 Messaging & Streaming
+
+<!-- Messaging & Streaming -->
+[![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=white)](https://www.rabbitmq.com/)
+[![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?logo=apachekafka&logoColor=white)](https://kafka.apache.org/)
+[![Redis Pub/Sub](https://img.shields.io/badge/Redis_Pub%2FSub-DC382D?logo=redis&logoColor=white)](https://redis.io/)
