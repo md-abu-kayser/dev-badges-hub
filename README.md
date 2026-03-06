@@ -141,3 +141,12 @@ A centralized collection of ready-to-use shields (badges) paired with official d
 [![PlanetScale](https://img.shields.io/badge/PlanetScale-000000?logo=planetscale&logoColor=white)](https://planetscale.com/)
 [![CockroachDB](https://img.shields.io/badge/CockroachDB-6933FF?logo=cockroachlabs&logoColor=white)](https://www.cockroachlabs.com/)
 [![TimescaleDB](https://img.shields.io/badge/TimescaleDB-FDB515?logo=timescale&logoColor=black)](https://www.timescale.com/)
+
+## ORMs & Query Builders
+
+<!-- ORMs & Query Builders -->
+[![Prisma](https://img.shields.io/badge/Prisma-2B3440?logo=prisma&logoColor=white)](https://www.prisma.io/)
+[![TypeORM](https://img.shields.io/badge/TypeORM-262627?logo=typeorm&logoColor=white)](https://typeorm.io/)
+[![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?logo=sequelize&logoColor=white)](https://sequelize.org/)
+[![Mongoose](https://img.shields.io/badge/Mongoose-880000?logo=mongodb&logoColor=white)](https://mongoosejs.com/)
+[![Drizzle](https://img.shields.io/badge/Drizzle-7A3EFC?logo=drizzle&logoColor=white)](https://orm.drizzle.team/)
