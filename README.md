@@ -242,3 +242,18 @@ A centralized collection of ready-to-use shields (badges) paired with official d
 [![Maven](https://img.shields.io/badge/Maven-C71A36?logo=apachemaven&logoColor=white)](https://maven.apache.org/)
 [![Composer](https://img.shields.io/badge/Composer-885630?logo=composer&logoColor=white)](https://getcomposer.org/)
 [![pip](https://img.shields.io/badge/pip-3775A9?logo=pypi&logoColor=white)](https://pip.pypa.io/)
+
+## 🔧 Version Control & CI/CD
+
+<!-- Version Control & CI/CD -->
+[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/)
+[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white)](https://gitlab.com/)
+[![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?logo=bitbucket&logoColor=white)](https://bitbucket.org/)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)](https://docs.github.com/actions)
+[![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?logo=gitlab&logoColor=white)](https://docs.gitlab.com/ee/ci/)
+[![CircleCI](https://img.shields.io/badge/CircleCI-343434?logo=circleci&logoColor=white)](https://circleci.com/)
+[![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)](https://www.jenkins.io/)
+[![Travis CI](https://img.shields.io/badge/Travis_CI-3EAAAF?logo=travisci&logoColor=white)](https://travis-ci.org/)
+[![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?logo=azuredevops&logoColor=white)](https://azure.microsoft.com/en-us/services/devops/)
+[![TeamCity](https://img.shields.io/badge/TeamCity-000000?logo=teamcity&logoColor=white)](https://www.jetbrains.com/teamcity/)
