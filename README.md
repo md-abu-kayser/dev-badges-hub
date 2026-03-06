@@ -84,3 +84,26 @@ A centralized collection of ready-to-use shields (badges) paired with official d
 [![D3.js](https://img.shields.io/badge/D3.js-F9A03C?logo=d3dotjs&logoColor=white)](https://d3js.org/)
 [![Three.js](https://img.shields.io/badge/Three.js-000000?logo=threedotjs&logoColor=white)](https://threejs.org/)
 [![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?logo=framer&logoColor=white)](https://www.framer.com/motion/)
+
+---
+
+## 🖥️ Backend & API Frameworks
+
+<!-- Backend & API Frameworks -->
+[![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)](https://nodejs.org/)
+[![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)](https://expressjs.com/)
+[![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)](https://nestjs.com/)
+[![Fastify](https://img.shields.io/badge/Fastify-000000?logo=fastify&logoColor=white)](https://www.fastify.io/)
+[![Koa](https://img.shields.io/badge/Koa-33333D?logo=koa&logoColor=white)](https://koajs.com/)
+[![Hapi](https://img.shields.io/badge/Hapi-FF5733?logo=hapi&logoColor=white)](https://hapi.dev/)
+[![AdonisJS](https://img.shields.io/badge/AdonisJS-5A45FF?logo=adonisjs&logoColor=white)](https://adonisjs.com/)
+[![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)](https://www.djangoproject.com/)
+[![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+[![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white)](https://spring.io/)
+[![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
+[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)](https://laravel.com/)
+[![Symfony](https://img.shields.io/badge/Symfony-000000?logo=symfony&logoColor=white)](https://symfony.com/)
+[![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?logo=rubyonrails&logoColor=white)](https://rubyonrails.org/)
+[![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
+[![Phoenix](https://img.shields.io/badge/Phoenix-FF6600?logo=phoenixframework&logoColor=white)](https://www.phoenixframework.org/)
