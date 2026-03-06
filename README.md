@@ -150,3 +150,18 @@ A centralized collection of ready-to-use shields (badges) paired with official d
 [![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?logo=sequelize&logoColor=white)](https://sequelize.org/)
 [![Mongoose](https://img.shields.io/badge/Mongoose-880000?logo=mongodb&logoColor=white)](https://mongoosejs.com/)
 [![Drizzle](https://img.shields.io/badge/Drizzle-7A3EFC?logo=drizzle&logoColor=white)](https://orm.drizzle.team/)
+
+## ☁️ Cloud & Infrastructure
+
+<!-- Cloud & Infrastructure -->
+[![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
+[![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/)
+[![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?logo=googlecloud&logoColor=white)](https://cloud.google.com/)
+[![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)](https://vercel.com/)
+[![Netlify](https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white)](https://www.netlify.com/)
+[![Heroku](https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=white)](https://www.heroku.com/)
+[![Render](https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=white)](https://render.com/)
+[![Railway](https://img.shields.io/badge/Railway-0B0D0E?logo=railway&logoColor=white)](https://railway.app/)
+[![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?logo=digitalocean&logoColor=white)](https://www.digitalocean.com/)
+[![Linode](https://img.shields.io/badge/Linode-00A95C?logo=linode&logoColor=white)](https://www.linode.com/)
+[![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white)](https://www.cloudflare.com/)
